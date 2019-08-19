@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\bin\Debug\hotel_fave.exe.config
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\bin\Debug\hotel_fave.exe
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\bin\Debug\hotel_fave.pdb
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\obj\Debug\hotel_fave.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\obj\Debug\hotel_fave.Form1.resources
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\obj\Debug\hotel_fave.Properties.Resources.resources
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\obj\Debug\hotel_fave.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\obj\Debug\hotel_fave.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\obj\Debug\hotel_fave.exe
+C:\Users\Kevin\source\repos\hotel_fave\hotel_fave\obj\Debug\hotel_fave.pdb
